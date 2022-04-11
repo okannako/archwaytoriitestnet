@@ -32,8 +32,10 @@ cd archway
 git checkout main
 make install
 ```
-archwayd version
- "0.0.5"
+
+# Versiyon kontrolü
+```archwayd version```
+ 0.0.5
 
 ```
 HOMEDIR=/root/.archway
