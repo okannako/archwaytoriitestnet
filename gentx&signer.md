@@ -25,7 +25,7 @@ source $HOME/.profile
 go version
 ```
 
-# Genxt
+# Gentx
 ```
 git clone https://github.com/archway-network/archway
 cd archway
