@@ -35,7 +35,7 @@ make install
 
 # Versiyon kontrolü
 ```archwayd version```
-#0.0.5
+0.0.5
 
 ```
 HOMEDIR=/root/.archway
@@ -63,4 +63,6 @@ Signer: https://github.com/archway-network/testnet-signer
 git clone https://github.com/archway-network/testnet-signer
 cd testnet-signer
 make install
+
+testnet-signer sign_id my-key
 ```
