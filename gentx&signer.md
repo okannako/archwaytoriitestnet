@@ -38,6 +38,7 @@ make install
 0.0.5
 
 ```
+cd $HOME
 HOMEDIR=/root/.archway
 archwayd config chain-id torii-1 --home $HOMEDIR
 archwayd config node https://rpc.torii-1.archway.tech:443 --home $HOMEDIR
