@@ -57,3 +57,10 @@ archwayd gentx my-key 1000000utorii \
 
 Github PR: https://github.com/archway-network/testnets/tree/main/torii-1/gentx
 Signer: https://github.com/archway-network/testnet-signer 
+
+#Signer
+```
+git clone https://github.com/archway-network/testnet-signer
+cd testnet-signer
+make install
+```
