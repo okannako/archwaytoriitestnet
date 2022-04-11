@@ -33,7 +33,7 @@ git checkout main
 make install
 ```
 archwayd version
-# "0.0.5"
+ "0.0.5"
 
 ```
 HOMEDIR=/root/.archway
